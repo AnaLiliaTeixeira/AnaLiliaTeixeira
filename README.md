@@ -1,10 +1,11 @@
-## 👋 Hi! I’m Ana Teixeira
-
-## 🌱 I’m currently learning
+# 👋 Hi! Welcome to my GitHub profile!
+## 👨‍💻 About me
+  I'm Ana Teixeira and for the past 3 years I studied Computer Engineering at Faculdade de Ciências da Universidade de Lisboa (FCUL).
+## 🌱 Languages and Tools I've learned
 <div style="display: inline_block"><br>
  <a href="https://www.java.com/pt-BR/" target="_blank"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></a>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <a href="https://www.cprogramming.com" target="_blank"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://angular.io" target="_blank"><img align="center" alt="Angular" height="30" width="40" src="https://simpleicons.org/icons/angular.svg"></a>
   <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
