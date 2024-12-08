@@ -1,6 +1,6 @@
 # 👋 Hi! Welcome to my GitHub profile!
 ## 👩🏻‍💻 About me
-  I'm Ana Teixeira, and I've been studying Computer Engineering at Faculdade de Ciências da Universidade de Lisboa (FCUL) for the past 3 years. Currently, I'm pursuing a master's degree in Software Engineering at the same institution.
+  I'm Ana Teixeira, and I've been studying Computer Engineering at Faculdade de Ciências da Universidade de Lisboa (FCUL) for the past 4 years. Currently, I'm pursuing a master's degree in Software Engineering at the same institution.
 
 ## 🌱 Languages I've learned
 
